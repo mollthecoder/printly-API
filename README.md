@@ -1,6 +1,6 @@
 # printly-API
 Any item with the class "printOnly" will be hidden unless it is being printed.
-You can print the window using window.print();
+You can print the window using window.print(); in JavaScript <br />
 Example:
 ```
 <div class="printOnly">THIS DOCUMENT IS BEING PRINTED FROM EXAMPLE.COM</div>
