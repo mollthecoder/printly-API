@@ -6,6 +6,6 @@
 
 @media print {
   .printOnly {
-    display:inline;
+    display:default;
   }
 }
